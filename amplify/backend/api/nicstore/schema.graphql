@@ -1,0 +1,10 @@
+type ItemModel @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  price: Float!
+  image: String
+  color: String
+  updatedAt: AWSDateTime
+  createdAt: AWSDateTime
+}
+ 

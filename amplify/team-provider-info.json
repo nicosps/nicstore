@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nicstore-staging-133845-authRole",
+      "UnauthRoleArn": "arn:aws:iam::131162817596:role/amplify-nicstore-staging-133845-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::131162817596:role/amplify-nicstore-staging-133845-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-nicstore-staging-133845-deployment",
+      "UnauthRoleName": "amplify-nicstore-staging-133845-unauthRole",
+      "StackName": "amplify-nicstore-staging-133845",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:131162817596:stack/amplify-nicstore-staging-133845/55c105b0-6772-11ee-b7b5-0ae08bc32062",
+      "AmplifyAppId": "d1y6oylvil7kqe"
+    },
+    "categories": {
+      "auth": {
+        "nicstore": {}
+      }
+    }
+  }
+}

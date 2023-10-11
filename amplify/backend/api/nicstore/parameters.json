@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "nicstore",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-10-11T01:41:16.747Z"
+}
